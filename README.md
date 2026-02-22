@@ -1,6 +1,6 @@
 # eLinks.cloud 
 
-State of the Art Browser
+A minimalistic browser with a state-of-the-art bookmark manager
 try it:   http://www.elinks.cloud
 
 ![Alt text](elinks3.png)
