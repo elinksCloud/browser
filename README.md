@@ -4,9 +4,11 @@ A minimalistic browser with a state-of-the-art bookmark manager
 try it:   http://www.elinks.cloud
 
 ## "My Favorites" Section
+![Alt text](elinks20.png)
+
 See comparisons between Microsoft Edge vs eLinks using the same bookmarks so they can be compared side by side
 
-![Alt text](elinks20.png)
+
 ![Alt text](elinks21.png)
 
 More screenshot of elinks Browser
