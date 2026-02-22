@@ -17,3 +17,7 @@ See comparisons between Microsoft Edge vs eLinks using the same bookmarks so the
 ## "Windows Explorer" Section
 
 ![Alt text](1.jpg)
+
+See comparisons between Microsoft Edge vs eLinks using the same bookmarks so they can be compared side by side
+
+![Alt text](elinks22.png)
