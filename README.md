@@ -7,7 +7,7 @@ try it:   http://www.elinks.cloud
 
 ![Alt text](elinks3.png)
 
-See comparisons between Microsoft Edge vs eLinks using the same bookmarks so they can be compared side by side
+See comparisons between Microsoft Edge vs David Browser using the same bookmarks so they can be compared side by side
 
 ![Alt text](elinks20.png)
 
@@ -18,6 +18,6 @@ See comparisons between Microsoft Edge vs eLinks using the same bookmarks so the
 
 ![Alt text](1.jpg)
 
-See comparisons between Microsoft Edge vs eLinks using the same bookmarks so they can be compared side by side
+See comparisons between Microsoft Edge vs David Browser using the same bookmarks so they can be compared side by side
 
 ![Alt text](elinks22.png)
