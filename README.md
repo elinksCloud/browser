@@ -1,4 +1,4 @@
-# eLinks.cloud 
+# David Browser
 
 A minimalistic browser with a state-of-the-art bookmark manager
 try it:   http://www.elinks.cloud
