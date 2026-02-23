@@ -9,10 +9,10 @@ try it:   http://www.elinks.cloud
 
 See comparisons between Microsoft Edge vs David Browser using the same bookmarks so they can be compared side by side
 
-![Alt text](elinks20.png)
+![Alt text](elinks20A.png)
 
 
-![Alt text](elinks21.png)
+![Alt text](elinks21A.png)
 
 ## "Windows Explorer" Section
 
@@ -20,4 +20,4 @@ See comparisons between Microsoft Edge vs David Browser using the same bookmarks
 
 See comparisons between Microsoft Edge vs David Browser using the same bookmarks so they can be compared side by side
 
-![Alt text](elinks22.png)
+![Alt text](elinks22A.png)
