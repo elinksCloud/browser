@@ -1,7 +1,7 @@
 # David Browser
 
 A minimalistic browser with a state-of-the-art bookmark manager
-try it:   http://www.elinks.cloud
+try it:   http://www.DavidBrowser.com
 
 ## "My Favorites" Section
 
